@@ -30,7 +30,7 @@ h1 {
 }
 
 form {
-  background-color: #444;
+  background-color: #000000;
   padding: 20px;
   border-radius: 5px;
 }
@@ -57,7 +57,7 @@ textarea {
   padding: 10px;
   border: 1px solid #666;
   border-radius: 5px;
-  background-color: #555;
+  background-color: #000000;
   color: #fff;
 }
 
@@ -71,7 +71,7 @@ textarea {
 
 button {
   padding: 10px 20px;
-  background-color: #555;
+  background-color: #000000;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -80,5 +80,5 @@ button {
 }
 
 button:hover {
-  background-color: #666;
+  background-color: #000000;
 }
