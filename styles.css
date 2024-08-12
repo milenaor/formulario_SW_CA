@@ -21,7 +21,12 @@ header {
 
 h1 {
   font-size: 2em;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
+}
+
+hr {
+  height: 3px;
+  color: white;
 }
 
 .social-icons img {
@@ -30,7 +35,7 @@ h1 {
 }
 
 form {
-  background-color: #000000;
+  background-color: #f1f1f1;
   padding: 20px;
   border-radius: 5px;
 }
